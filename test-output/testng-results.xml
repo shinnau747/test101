@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4854" started-at="2022-01-31T20:31:45 CST" finished-at="2022-01-31T20:31:50 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4854" started-at="2022-01-31T20:31:45 CST" finished-at="2022-01-31T20:31:50 CST">
+      <class name="TestCases.MonthDropDown">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.MonthDropDown@1f57539]" name="setUp" is-config="true" duration-ms="2118" started-at="2022-01-31T20:31:45 CST" finished-at="2022-01-31T20:31:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="monthDisplay()[pri:0, instance:TestCases.MonthDropDown@1f57539]" name="monthDisplay" duration-ms="2715" started-at="2022-01-31T20:31:47 CST" finished-at="2022-01-31T20:31:50 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthDisplay -->
+      </class> <!-- TestCases.MonthDropDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
